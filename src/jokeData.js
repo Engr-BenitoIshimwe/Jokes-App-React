@@ -19,6 +19,10 @@ const jokeData = [
     setup: 'Why does Waldo wear stripes?',
     punchline: 'Because he doesn’t want to be spotted.',
   },
+  {
+    setup: 'What do you call an alligator detective?',
+    punchline: 'An investi-gator',
+  },
 ];
 
 export default jokeData;
