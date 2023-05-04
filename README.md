@@ -1,1 +1,1 @@
-## Jokes-App-React
+## React Jokes Application
