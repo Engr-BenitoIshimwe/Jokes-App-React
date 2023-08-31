@@ -1,1 +1,1 @@
-## React Jokes Application
+## Jokes Application | React
